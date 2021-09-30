@@ -1,0 +1,64 @@
+version: '3'
+services:
+    nginx:
+        build:
+            dockerfile: ./docker/nginx.dockerfile
+            context: .
+        image: isaacalves7/nginx
+        container_name: nginx
+        ports:
+            - "80:80"
+        networks: 
+            - production-network
+        depends_on: 
+            - "laravel1"
+            - "laravel2"
+            - "laravel3"
+
+    mysql:
+        image: mysql
+        networks: 
+            - production-network
+
+    laravel1:
+        build:
+            dockerfile: ./docker/app.dockerfile
+            context: .
+        image: isaacalves7/app-laravel
+        container_name: app-1
+        ports:
+            - "3000"
+        networks: 
+            - production-network
+        depends_on:
+            - "mysql"
+
+    laravel2:
+        build:
+            dockerfile: ./docker/app.dockerfile
+            context: .
+        image: isaacalves7/app-laravel
+        container_name: app-2
+        ports:
+            - "3000"
+        networks: 
+            - production-network
+        depends_on:
+            - "mysql"
+
+    laravel3:
+        build:
+            dockerfile: ./docker/app.dockerfile
+            context: .
+        image: isaacalves7/app-laravel
+        container_name: app-3
+        ports:
+            - "3000"
+        networks: 
+            - production-network
+        depends_on:
+            - "mysql"
+
+networks: 
+    production-network:
+        driver: bridge
