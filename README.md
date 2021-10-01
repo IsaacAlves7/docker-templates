@@ -9,10 +9,6 @@
 composer create-project --prefer-dist laravel/laravel laravel-docker
 ```
 
-```
-code .
-```
-
 # Nginx
 
 # MySQL
