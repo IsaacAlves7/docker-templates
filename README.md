@@ -1,4 +1,4 @@
-# Docker Compose NMP (Nginx [Laravel] MySQL)
+# Docker Compose NML (Nginx [Laravel] MySQL)
 
 <img src="" height="377">
 
