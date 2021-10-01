@@ -1,4 +1,4 @@
-# 🐙 Docker Compose NML (Nginx [Laravel] MySQL)
+# 🐙 Docker Compose NML (Nginx [Laravel] MySQL) 📦
 
 <img src="https://user-images.githubusercontent.com/61624336/135663142-6634374f-0863-4949-8cf4-f8de79d84d85.jpg" height="377">
 
