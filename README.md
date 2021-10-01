@@ -9,6 +9,9 @@
 composer create-project --prefer-dist laravel/laravel laravel-docker
 ```
 
+## Laradock
+<div align="center"><img src="https://raw.githubusercontent.com/laradock/laradock/master/.github/home-page-images/laradock-logo.jpg"></div><br \>
+
 # Nginx
 
 # MySQL
