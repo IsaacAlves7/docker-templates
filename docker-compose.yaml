@@ -1,31 +1,37 @@
 version: '3'
 services:
+    # NGINX build
     nginx:
         build:
             dockerfile: ./docker/nginx.dockerfile
             context: .
         image: isaacalves7/nginx
-        container_name: nginx
+        container_name: nginx_laravel
         ports:
-            - "80:80"
+            - "7000:80"
+        volumes:
+         - ./src:/var/www/html
+         - ./src:/
         networks: 
             - production-network
         depends_on: 
-            - "laravel1"
-            - "laravel2"
-            - "laravel3"
-
+            - "app.laravel1"
+            - "app.laravel2"
+            - "app.laravel3"
+        
+    # MySQL build 
     mysql:
         image: mysql
         networks: 
             - production-network
 
+    # Laravel App 1
     laravel1:
         build:
             dockerfile: ./docker/app.dockerfile
             context: .
         image: isaacalves7/app-laravel
-        container_name: app-1
+        container_name: app.laravel1
         ports:
             - "3000"
         networks: 
@@ -33,12 +39,13 @@ services:
         depends_on:
             - "mysql"
 
+    # Laravel App 2
     laravel2:
         build:
             dockerfile: ./docker/app.dockerfile
             context: .
         image: isaacalves7/app-laravel
-        container_name: app-2
+        container_name: app.laravel2
         ports:
             - "3000"
         networks: 
@@ -46,12 +53,13 @@ services:
         depends_on:
             - "mysql"
 
+    # Laravel App 3
     laravel3:
         build:
             dockerfile: ./docker/app.dockerfile
             context: .
         image: isaacalves7/app-laravel
-        container_name: app-3
+        container_name: app.laravel3
         ports:
             - "3000"
         networks: 
@@ -59,6 +67,7 @@ services:
         depends_on:
             - "mysql"
 
+# Networks
 networks: 
     production-network:
         driver: bridge
