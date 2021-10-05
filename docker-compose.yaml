@@ -45,6 +45,6 @@ services:
        volumes:
          - ./src:/var/www/html
        ports:
-         - "9004:9004"
+         - "9004"
        networks:
          - laravel
