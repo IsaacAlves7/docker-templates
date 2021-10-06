@@ -4,18 +4,21 @@
 
 <img src="https://user-images.githubusercontent.com/61624336/135663142-6634374f-0863-4949-8cf4-f8de79d84d85.jpg" height="377">
 
+# PHP Language
 
-# Laravel
+## Composer
+
+## Laravel Framework
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="277"></div><br \>
 
 ```
 composer create-project --prefer-dist laravel/laravel laravel-docker
 ```
 
-# Nginx
+# Nginx Server
 <div align="center"><img src="https://symbols.getvecta.com/stencil_89/48_nginx-icon.4056e667e9.svg" height="277"></div><br \>
 
-# MySQL
+# MySQL Database
 <div align="center"><img src="https://symbols.getvecta.com/stencil_88/137_mysql-official.0f54b3d3c5.svg" height="277"></div><br \>
 
 # Docker Compose
