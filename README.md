@@ -26,7 +26,7 @@ composer create-project --prefer-dist laravel/laravel laravel-docker
 
 <hr>
 
-<h1 align="center">Existem outras formas de fazer um Docker Compose com Laravel</h1>
+<h1 align="center">Formas de fazer um Docker Compose com Laravel</h1>
 
 # Laradock
 <div align="center"><img src="https://raw.githubusercontent.com/laradock/laradock/master/.github/home-page-images/laradock-logo.jpg"></div><br \>
