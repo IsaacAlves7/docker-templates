@@ -15,6 +15,10 @@
 # PHP Language
 <div align="center"><img src="https://www.php.net/images/logos/php-logo.svg" height="270"></div><br \>
 
+```
+docker exec -it php_laravel sh
+```
+
 ## Composer
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/composer.svg" height="270"></div><br \>
 
@@ -30,10 +34,17 @@ composer create-project --prefer-dist laravel/laravel laravel-docker
 # Nginx Server
 <div align="center"><img src="https://symbols.getvecta.com/stencil_89/48_nginx-icon.4056e667e9.svg" height="277"></div><br \>
 
+```
+docker exec -it nginx_laravel sh
+```
 <hr>
 
 # MySQL Database
 <div align="center"><img src="https://symbols.getvecta.com/stencil_88/137_mysql-official.0f54b3d3c5.svg" height="277"></div><br \>
+
+```
+docker exec -it mysql_laravel sh
+```
 
 <hr>
 
