@@ -1,4 +1,4 @@
-# 🐙 Docker Compose LEMP (Linux + Nginx + MySQL + PHP) 📦
+# 🐙 Docker Compose LEMP (Linux, Nginx, MySQL, PHP) 📦
 
 <blockquote>It's a repository of Docker Compose with the following containers: PHP, MySQL and NGINX.</blockquote>
 
