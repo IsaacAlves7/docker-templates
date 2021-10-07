@@ -2,7 +2,7 @@
 
 <blockquote>It's a repository of Docker Compose with the following containers: PHP, MySQL and NGINX.</blockquote>
 
-<img src="https://user-images.githubusercontent.com/61624336/135663142-6634374f-0863-4949-8cf4-f8de79d84d85.jpg" height="377">
+<img src="" height="377">
 
 # Docker Compose
 <div align="center"><img src="https://openwhisk.apache.org/images/deployments/logo-docker-compose-text.svg" height="277"></div><br \>
