@@ -1,6 +1,6 @@
 # 🐙 It's a Docker Compose with LEMP stack containers 📦
 
-<blockquote>It's a repository of Docker Compose with the following containers: PHP, MySQL and NGINX.</blockquote>
+<blockquote>It's a repository of Docker Compose with the following containers: <b>L</b>inux, <b>N</b>GINX, <b>M</b>ySQL and <b>P</b>HP.</blockquote>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/136423551-f53a1099-ea8a-4f4c-b001-d81c1bc722f1.png" height="377"></div>
 
