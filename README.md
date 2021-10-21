@@ -13,7 +13,7 @@
 <hr>
 
 # LEMP Stack
-<div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/candle_1f56f-fe0f.png" height="277"></div><br \>
+<div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/candle_1f56f-fe0f.png" height="207"></div><br \>
 
 # PHP Language
 <div align="center"><img src="https://www.php.net/images/logos/php-logo.svg" height="270"></div><br \>
