@@ -1,4 +1,4 @@
-# 🐙 It's a Docker Compose with LEMP stack containers 📦
+# 🐙 It's a Docker Compose with LEMP stack containers 🕯️
 
 <blockquote>It's a repository of Docker Compose with the following containers: <b>L</b>inux, <b>N</b>GINX, <b>M</b>ySQL and <b>P</b>HP.</blockquote>
 
