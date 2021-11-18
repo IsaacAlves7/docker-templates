@@ -1,4 +1,4 @@
-# It's a Docker with Web Stack containers
+# 🐋🐙 Docker - Web Stacks from scratch 🔋 
 
 <blockquote>It's a repository of Docker Compose with the following containers: <b>L</b>inux, <b>N</b>GINX, <b>M</b>ySQL and <b>P</b>HP.</blockquote>
 
