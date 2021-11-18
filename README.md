@@ -2,7 +2,7 @@
 
 <blockquote>It's a repository of Docker - Web Stacks from scratch.</blockquote>
 
-# Docker Compose
+# 🐙 Docker Compose 🐙
 <div align="center"><img src="https://openwhisk.apache.org/images/deployments/logo-docker-compose-text.svg" height="277"></div><br \>
 
 ## Docker Hub:  
@@ -10,8 +10,12 @@
 
 <hr>
 
-# LEMP Stack
+# 🕯️ LEMP Stack 🕯️ 
 <div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/candle_1f56f-fe0f.png" height="207"></div><br \>
+
+# 💡 LAMP Stack 💡
+
+# WINS Stack
 
 <hr>
 
