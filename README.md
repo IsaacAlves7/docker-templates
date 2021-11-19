@@ -2,6 +2,8 @@
 
 <blockquote>It's a repository of Docker - Web Stacks from scratch.</blockquote>
 
+<img src="https://www.teahub.io/photos/full/168-1687491_lithium-ion-battery.jpg">
+
 # 🐙 Docker Compose 🐙
 <div align="center"><img src="https://openwhisk.apache.org/images/deployments/logo-docker-compose-text.svg" height="277"></div><br \>
 
