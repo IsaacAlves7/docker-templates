@@ -1,11 +1,11 @@
-# 🐋🐙 Docker - Web Stacks from scratch 🔋 
+# 🐋 Docker - Web Stacks from scratch 🔋 
 
 <blockquote>It's a repository of Docker - Web Stacks from scratch.</blockquote>
 
 # 🐙 Docker Compose 🐙
 <div align="center"><img src="https://openwhisk.apache.org/images/deployments/logo-docker-compose-text.svg" height="277"></div><br \>
 
-## Docker Hub:  
+## 🐋 Docker Hub 🐋
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" height="277"></div><br \>
 
 <hr>
