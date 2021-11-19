@@ -6,7 +6,7 @@
 <div align="center"><img src="https://openwhisk.apache.org/images/deployments/logo-docker-compose-text.svg" height="277"></div><br \>
 
 ## Docker Hub:  
-<div align="center"><img src="https://symbols.getvecta.com/stencil_78/89_docker-tile.5425ae689d.svg" height="277"></div><br \>
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" height="277"></div><br \>
 
 <hr>
 
