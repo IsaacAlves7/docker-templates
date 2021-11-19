@@ -1,6 +1,6 @@
 # 🐋 Docker - Web Stacks from scratch 🔋 
 
-<blockquote>It's a repository of Docker - Web Stacks from scratch.</blockquote>
+<blockquote>It's a repository of Docker for creating Web Stacks from scratch.</blockquote>
 
 <img src="https://www.teahub.io/photos/full/168-1687491_lithium-ion-battery.jpg">
 
@@ -35,7 +35,7 @@
 
 <hr>
 
-# Laradock
+# 🟧 Laradock 🟪
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/laradock-1.svg"></div><br \>
 
 É um ambiente PHP cheio de ferramentas para facilitar na implementação com o docker-compose em Laravel, foi criado pelos mesmos desenvolvedores do Laravel.
