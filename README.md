@@ -31,8 +31,6 @@
 # 🔦 MENV Stack 🔦
 <div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flashlight_1f526.png" height="207"></div><br \>
 
-# 
-
 <hr>
 
 # Laradock
