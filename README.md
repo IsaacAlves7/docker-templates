@@ -24,8 +24,6 @@
 
 <hr>
 
-<h1 align="center">Formas de fazer um Docker Compose com Laravel</h1>
-
 # Laradock
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/laradock-1.svg"></div><br \>
 
