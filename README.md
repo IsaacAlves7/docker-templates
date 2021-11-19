@@ -14,10 +14,13 @@
 <div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/candle_1f56f-fe0f.png" height="207"></div><br \>
 
 # 💡 LAMP Stack 💡
+<div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/light-bulb_1f4a1.png" height="207"></div><br \>
 
 # 🦵 PERN Stack 🦵
+<div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/leg_1f9b5.png" height="207"></div><br \>
 
 # 🏆 WINS Stack 🏆
+<div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/trophy_1f3c6.png" height="207"></div><br \>
 
 <hr>
 
