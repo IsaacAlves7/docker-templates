@@ -5,7 +5,7 @@
 # 🐙 Docker Compose 🐙
 <div align="center"><img src="https://openwhisk.apache.org/images/deployments/logo-docker-compose-text.svg" height="277"></div><br \>
 
-## 🐋 Docker Hub 🐋
+# 🐋 Docker Hub 🐋
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" height="277"></div><br \>
 
 <hr>
