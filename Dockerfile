@@ -22,7 +22,7 @@ RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local
 version: '3'
 
 networks: 
-   lemp:
+   lemp: 
 
 services:
     nginx:
@@ -138,6 +138,21 @@ services:
 # .DOCKERIGNORE: 
 
 .node_modules/ 
+
+--------------------------------------------------------------------------------------------------------------------------
+# DOCKERFILE: L.E.M.P - Linux (Ubuntu, Fedora, CentOS, Debian) + NGINX + (MySQL) + (Python)
+
+FROM python:latest
+WORKDIR /var/www/html
+ADD 
+RUN chmod ugo+x /usr/local/bin/install-php-extensions && sync && \
+    install-php-extensions pdo pdo_mysql gd zip exif
+RUN docker-php-ext-install mysqli pdo pdo_mysql exif
+RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composerdoc
+
+# DOCKER-COMPOSE: 
+
+# .DOCKERIGNORE: 
 
 --------------------------------------------------------------------------------------------------------------------------
 # DOCKERFILE: L.E.M.P - Linux (Ubuntu, Fedora, CentOS, Debian) + NGINX + (MySQL) + (Python)
