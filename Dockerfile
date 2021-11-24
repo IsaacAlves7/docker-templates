@@ -22,7 +22,7 @@ RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local
 version: '3'
 
 networks: 
-   lemp: 
+   lemp: # bridge (default) ou overlay ou host
 
 services:
     nginx:
