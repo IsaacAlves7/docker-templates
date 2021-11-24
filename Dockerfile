@@ -1,14 +1,44 @@
 ================================================================
 | # Docker WebStacks - Dockerfile and Docker Compose Templates |
 ----------------------------------------------------------------
-           __        
-    ____  / /_  ____ 
-   / __ \/ __ \/ __ \
-  / /_/ / / / / /_/ /
- / .___/_/ /_/ .___/ 
-/_/         /_/      
+                                              
+    _/        _/_/_/_/  _/      _/  _/_/_/    
+   _/        _/        _/_/  _/_/  _/    _/   
+  _/        _/_/_/    _/  _/  _/  _/_/_/      
+ _/        _/        _/      _/  _/           
+_/_/_/_/  _/_/_/_/  _/      _/  _/            
+                                                                      
+# DOCKERFILE: L.E.M.P - Linux (Ubuntu, Fedora, CentOS, Debian) + NGINX + (MySQL) + (PHP)
 
-# DOCKERFILE: L.E.M.P - Linux (Ubuntu, Fedora, CentOS, Debian) + NGINX + (MySQL || MariaDB) + (PHP || Python)
+FROM php:7.4
+WORKDIR /var/www/html
+ADD https://raw.githubusercontent.com/mlocati/docker-php-extension-installer/master/install-php-extensions /usr/local/bin/
+RUN chmod ugo+x /usr/local/bin/install-php-extensions && sync && \
+    install-php-extensions pdo pdo_mysql gd zip exif
+RUN docker-php-ext-install mysqli pdo pdo_mysql exif
+RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composerdoc
+
+# DOCKER-COMPOSE: 
+
+# .DOCKERIGNORE: 
+
+--------------------------------------------------------------------------------------------------------------------------
+# DOCKERFILE: L.E.M.P - Linux (Ubuntu, Fedora, CentOS, Debian) + NGINX + (MariaDB) + (PHP)
+
+FROM php:7.4
+WORKDIR /var/www/html
+ADD https://raw.githubusercontent.com/mlocati/docker-php-extension-installer/master/install-php-extensions /usr/local/bin/
+RUN chmod ugo+x /usr/local/bin/install-php-extensions && sync && \
+    install-php-extensions pdo pdo_mysql gd zip exif
+RUN docker-php-ext-install mysqli pdo pdo_mysql exif
+RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composerdoc
+
+# DOCKER-COMPOSE: 
+
+# .DOCKERIGNORE: 
+
+--------------------------------------------------------------------------------------------------------------------------
+# DOCKERFILE: L.E.M.P - Linux (Ubuntu, Fedora, CentOS, Debian) + NGINX + (MySQL) + (Python)
 
 FROM php:7.4
 WORKDIR /var/www/html
@@ -24,6 +54,12 @@ RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local
 
 ==========================================================================================================================
 
+_|          _|_|    _|      _|  _|_|_|    
+_|        _|    _|  _|_|  _|_|  _|    _|  
+_|        _|_|_|_|  _|  _|  _|  _|_|_|    
+_|        _|    _|  _|      _|  _|        
+_|_|_|_|  _|    _|  _|      _|  _|        
+                                                                         
 # DOCKERFILE: L.A.M.P - Linux (Ubuntu, Fedora, CentOS, Debian) + Apache + (MySQL || MariaDB) + (PHP || Python)
 
 FROM php:7.4
@@ -34,15 +70,7 @@ RUN chmod ugo+x /usr/local/bin/install-php-extensions && sync && \
 RUN docker-php-ext-install mysqli pdo pdo_mysql exif
 RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composerdoc
 
-==========================================================================================================================
-
-    _/      _/                  _/                _/            
-   _/_/    _/    _/_/      _/_/_/    _/_/              _/_/_/   
-  _/  _/  _/  _/    _/  _/    _/  _/_/_/_/      _/  _/_/        
- _/    _/_/  _/    _/  _/    _/  _/            _/      _/_/     
-_/      _/    _/_/      _/_/_/    _/_/_/  _/  _/  _/_/_/        
-                                             _/                 
-                                          _/                    
+==========================================================================================================================             
 
 # DOCKERFILE: M.E.A.N - MongoDB + Express + (Angular || Angular.js) + Node.js
 
@@ -85,15 +113,6 @@ RUN chmod +x /wait
 CMD /wait && npm start
 
 ==========================================================================================================================
- ____             __                  
-/\  _`\          /\ \                 
-\ \ \L\ \  __  __\ \ \____  __  __    
- \ \ ,  / /\ \/\ \\ \ '__`\/\ \/\ \   
-  \ \ \\ \\ \ \_\ \\ \ \L\ \ \ \_\ \  
-   \ \_\ \_\ \____/ \ \_,__/\/`____ \ 
-    \/_/\/ /\/___/   \/___/  `/___/> \
-                                /\___/
-                                \/__/ 
                                 
 # DOCKERFILE: ROR - RubyOnRails
 
