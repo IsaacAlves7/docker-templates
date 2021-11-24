@@ -1,6 +1,4 @@
-================================================================
-| # Docker WebStacks - Dockerfile and Docker Compose Templates |
-----------------------------------------------------------------
+# Docker WebStacks - Dockerfile and Docker Compose Templates 
                                               
     _/        _/_/_/_/  _/      _/  _/_/_/    
    _/        _/        _/_/  _/_/  _/    _/   
