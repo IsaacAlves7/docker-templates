@@ -38,9 +38,9 @@ RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local
 --------------------------------------------------------------------------------------------------------------------------
 # DOCKERFILE: L.E.M.P - Linux (Ubuntu, Fedora, CentOS, Debian) + NGINX + (MySQL) + (Python)
 
-FROM php:7.4
+FROM python:latest
 WORKDIR /var/www/html
-ADD https://raw.githubusercontent.com/mlocati/docker-php-extension-installer/master/install-php-extensions /usr/local/bin/
+ADD 
 RUN chmod ugo+x /usr/local/bin/install-php-extensions && sync && \
     install-php-extensions pdo pdo_mysql gd zip exif
 RUN docker-php-ext-install mysqli pdo pdo_mysql exif
@@ -60,7 +60,7 @@ _|_|_|_|  _|    _|  _|      _|  _|
                                                                          
 # DOCKERFILE: L.A.M.P - Linux (Ubuntu, Fedora, CentOS, Debian) + Apache + (MySQL || MariaDB) + (PHP || Python)
 
-FROM php:7.4
+FROM python:latest
 WORKDIR /var/www/html
 ADD https://raw.githubusercontent.com/mlocati/docker-php-extension-installer/master/install-php-extensions /usr/local/bin/
 RUN chmod ugo+x /usr/local/bin/install-php-extensions && sync && \
