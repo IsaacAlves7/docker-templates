@@ -7,7 +7,7 @@
 | .__/|_| |_| .__/ 
 |_|         |_|    
 
-# L.E.M.P - Linux (Ubuntu, Fedora, CentOS, Debian) + NGINX + MySQL || MariaDB + PHP || Python
+# L.E.M.P - Linux (Ubuntu, Fedora, CentOS, Debian) + NGINX + (MySQL || MariaDB) + (PHP || Python)
 
 -----------------------------------------
  _   _           _         _     
@@ -17,7 +17,7 @@
 |_| \_|\___/ \__,_|\___(_)/ |___/
                         |__/     
 
-# M.E.A.N - MongoDB + Express + Angular || Angular.js + Node.js
+# M.E.A.N - MongoDB + Express + (Angular || Angular.js) + Node.js
 
 FROM node:latest
 WORKDIR /usr/src/app
