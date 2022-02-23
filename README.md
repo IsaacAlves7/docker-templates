@@ -4,13 +4,19 @@
 
 <img src="https://www.teahub.io/photos/full/168-1687491_lithium-ion-battery.jpg">
 
-# 🐙 Docker Compose 🐙
-<div align="center"><img src="https://openwhisk.apache.org/images/deployments/logo-docker-compose-text.svg" height="277"></div><br \>
-
-# 🐋 Docker Hub 🐋
+# 🐋 Docker
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" height="277"></div><br \>
 
+# 🐙 Docker Compose
+<div align="center"><img src="https://openwhisk.apache.org/images/deployments/logo-docker-compose-text.svg" height="277"></div><br \>
+
+# 🐋🐋🐋 Docker Swarm
+<div align="center"><img src="https://raw.githubusercontent.com/docker-library/docs/471fa6e4cb58062ccbf91afc111980f9c7004981/swarm/logo.png" height="277"><img src="https://www.pinclipart.com/picdir/big/83-834158_docker-swarm-logo-clipart.png" height="277"></div><br \>
+
 <hr>
+
+# 🐙 Docker Compose 🐙
+<div align="center"><img src="https://openwhisk.apache.org/images/deployments/logo-docker-compose-text.svg" height="277"></div><br \> 
 
 # 🕯️ LEMP Stack 🕯️ 
 <div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/candle_1f56f-fe0f.png" height="177"></div><br \>
@@ -34,8 +40,11 @@
 <div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flashlight_1f526.png" height="177"></div><br \>
 
 # 💎 ROR Stack 💎
+<div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flashlight_1f526.png" height="177"></div><br \>
 
 <hr>
+
+# 🐋 Ambientes com Ferramentas 🧰
 
 # 🟧 Laradock 🟪
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/laradock-1.svg"></div><br \>
