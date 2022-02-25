@@ -40,7 +40,7 @@
 <div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flashlight_1f526.png" height="177"></div><br \>
 
 # 💎 ROR Stack 💎
-<div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flashlight_1f526.png" height="177"></div><br \>
+<div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/gem-stone_1f48e.png" height="177"></div><br \>
 
 <hr>
 
