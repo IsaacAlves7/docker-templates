@@ -1,4 +1,4 @@
-# 🐋 Docker - Web Stacks from scratch 🔋 
+# 🐋 Docker - Web Stacks templates from scratch 🔋 
 
 <blockquote>It's a repository of Docker for creating Web Stacks from scratch.</blockquote>
 
@@ -23,6 +23,9 @@
 
 # 💡 LAMP Stack 💡
 <div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/light-bulb_1f4a1.png" height="177"></div><br \>
+
+# 🧨 LNPP Stack 🧨
+<div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/firecracker_1f9e8.png" height="177"></div><br \>
 
 # 🦵 PERN Stack 🦵
 <div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/leg_1f9b5.png" height="177"></div><br \>
