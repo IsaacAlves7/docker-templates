@@ -1,4 +1,4 @@
-# 🐋 Docker Templates from scratch 🔋 
+# 🐋 Docker Templates from scratch 🏗️
 
 <blockquote>It's a repository of Docker for creating Web Stacks from scratch.</blockquote>
 
