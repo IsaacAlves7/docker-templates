@@ -45,6 +45,9 @@
 # 💎 ROR Stack 💎
 <div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/gem-stone_1f48e.png" height="177"></div><br \>
 
+# ⚗️ FReMP Stack ⚗️
+<div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/alembic_2697-fe0f.png" height="177"></div><br \>
+
 <hr>
 
 # 🐋 Ambientes com Ferramentas 🧰
