@@ -2,7 +2,7 @@
 
 <blockquote>It's a repository of Docker for creating Web Stacks from scratch.</blockquote>
 
-<img src="https://web-standards.ru/articles/docker-unboxing-2/images/cover.png">
+<a href="#"><img src="https://web-standards.ru/articles/docker-unboxing-2/images/cover.png"></a>
 
 # 🐋 Docker
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" height="277"></div><br \>
