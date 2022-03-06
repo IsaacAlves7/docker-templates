@@ -50,6 +50,9 @@
 # ⚗️ FReMP Stack ⚗️
 <div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/alembic_2697-fe0f.png" height="177"></div><br \>
 
+# 🏀 JAMstack 🏀
+<div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/basketball_1f3c0.png" height="177"></div><br \>
+
 <hr>
 
 # 🐋 Ambientes com Ferramentas 🧰
