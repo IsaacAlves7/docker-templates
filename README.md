@@ -53,6 +53,13 @@
 # 🏀 JAMstack 🏀
 <div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/basketball_1f3c0.png" height="177"></div><br \>
 
+# 🍆 .NET Stack 🍆
+<div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/eggplant_1f346.png" height="177"></div><br \>
+
+# 🌱 Spring Boot Stack 🌱
+<div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/seedling_1f331.png" height="177"></div><br \>
+
+
 <hr>
 
 # 🐋 Ambientes com Ferramentas 🧰
