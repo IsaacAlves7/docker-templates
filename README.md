@@ -1,5 +1,3 @@
-<a href="#"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dg4vhnh3mmp5eqoyhugs.png"></a>
-
 # 🐋 Docker Templates from scratch 🏗️
 
 <blockquote>It's a repository of Docker for creating Web Stacks from scratch.</blockquote>
