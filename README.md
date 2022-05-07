@@ -67,6 +67,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <hr>
 
 # 🧰 Ambientes com ferramentas
+Existem muitos ambientes com ferramentas para melhor no desenvolvimento de aplicações dockerizadas, segue abaixo algumas delas:
 
 # 🟧 Laradock
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/laradock-1.svg"></div><br \>
