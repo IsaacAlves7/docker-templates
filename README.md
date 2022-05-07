@@ -4,8 +4,6 @@
 
 <blockquote>It's a repository of Docker for creating Web Stacks from scratch.</blockquote>
 
-<hr>
-
 # 🕯️ LEMP Stack 
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/candle_1f56f-fe0f.png" height="77" align="left">
 
