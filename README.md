@@ -1,8 +1,14 @@
 <a href="https://github.com/IsaacAlves7/docker-templates"><img src="https://web-standards.ru/articles/docker-unboxing-2/images/cover.png"></a>
 
-# 🐋 Docker Templates from scratch 🏗️
+# 🐋 Docker Templates from scratch
 
 <blockquote>It's a repository of Docker for creating Web Stacks from scratch.</blockquote>
+
+# 🏗️ Environments
+- Development
+- Test
+- Staging
+- Production
 
 # 🕯️ LEMP Stack 
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/candle_1f56f-fe0f.png" height="77" align="left">
