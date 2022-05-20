@@ -8,6 +8,11 @@
 Para ver os repositórios da imagem desses contêineres, acesse: https://hub.docker.com/u/isaacalves7
 
 # 🏗️ Environments
+
+<p align="center">
+    <a href="https://hub.docker.com/r/isaacalves7/node-file"><img src="https://dockeri.co/image/isaacalves7/node-file"/></a>
+</p>
+
 - Development
 - Test
 - Staging
