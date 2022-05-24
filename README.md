@@ -23,6 +23,8 @@ Para ver os repositórios da imagem desses contêineres, acesse: https://hub.doc
 ## DC Tools
 - LB - Load Balancer
 - reverse proxy
+- mesh services
+- AWS ECS & ECR
 
 # 💡 LAMP Stack
 
