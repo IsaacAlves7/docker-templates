@@ -20,12 +20,19 @@ Para ver os repositórios da imagem desses contêineres, acesse: https://hub.doc
 - Docker Compose
 - Docker SWARM
 
-## DC Tools
-- LB - Load Balancer
-- reverse proxy
-- mesh services
+# 🖧 DC - Distributed Computing features
+- Load Balancing
+- Clustering
+- Reverse proxy
+- Mesh services
 - AWS ECS & ECR
 - GitHub Actions
+
+# 🔋 Web Stacks
+<p align="center">
+    <a href="https://hub.docker.com/r/isaacalves7/node-file"><img src="https://user-images.githubusercontent.com/61624336/170062106-70768c8d-b49a-4a55-b686-d9b52856fb69.jpg" height="277"/></a>
+</p>
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 # 💡 LAMP Stack
 
