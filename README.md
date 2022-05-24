@@ -8,6 +8,8 @@
 Para ver os repositórios da imagem desses contêineres, acesse: https://hub.docker.com/u/isaacalves7
 
 # 🏗️ Environments
+<img src="https://user-images.githubusercontent.com/61624336/170058420-5027e551-de2d-438b-ae88-842d75e8a78b.svg" align="right" height="177">
+
 - Development
 - Test
 - Staging
