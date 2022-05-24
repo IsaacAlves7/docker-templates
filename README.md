@@ -18,6 +18,10 @@ Para ver os repositórios da imagem desses contêineres, acesse: https://hub.doc
 - Docker Compose
 - Docker SWARM
 
+## 🛠️ DC Tools
+- LB - Load Balancer
+- reverse proxy
+
 # 💡 LAMP Stack
 
 <p align="center">
