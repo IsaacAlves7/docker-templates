@@ -25,6 +25,7 @@ Para ver os repositórios da imagem desses contêineres, acesse: https://hub.doc
 - reverse proxy
 - mesh services
 - AWS ECS & ECR
+- GitHub Actions
 
 # 💡 LAMP Stack
 
