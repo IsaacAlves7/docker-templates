@@ -52,12 +52,3 @@ docker exec -it mysql_laravel sh
 <hr>
 
 <h1 align="center">Formas de fazer um Docker Compose com Laravel</h1>
-
-# Laradock
-<div align="center"><img src="https://raw.githubusercontent.com/laradock/laradock/master/.github/home-page-images/laradock-logo.jpg"></div><br \>
-
-É um ambiente PHP cheio de ferramentas para facilitar na implementação com o docker-compose em Laravel, foi criado pelos mesmos desenvolvedores do Laravel.
-
-```
-git clone https://github.com/laradock/laradock.git
-```
