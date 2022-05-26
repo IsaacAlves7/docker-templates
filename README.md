@@ -16,11 +16,16 @@ Para ver os repositórios da imagem desses contêineres, acesse: https://hub.doc
 - Production
 
 # 🎼 Orchestration tools
+<img src="https://www.docker.com/wp-content/uploads/2015/08/docker-toolbox1.png" align="right" height="177">
+
 - Docker Engine
 - Docker Compose
 - Docker SWARM
+- Linux OS (Ubuntu)
 
-# 🖧 DC - Distributed Computing features
+# 🖧 DC - Distributed Computing resources
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/docker_macos_bigsur_icon_190231.png" align="right" height="177">
+
 - Load Balancing
 - Clustering
 - Reverse proxy
