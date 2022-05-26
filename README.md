@@ -21,6 +21,7 @@ Para ver os repositórios da imagem desses contêineres, acesse: https://hub.doc
 - Docker Engine
 - Docker Compose
 - Docker SWARM
+- Docker Robot
 - Linux OS (Ubuntu)
 
 # 🖧 DC - Distributed Computing resources
