@@ -98,7 +98,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 </p>
 
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/atom-symbol_269b-fe0f.png" height="77" align="right">
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+A **MERN** stack (MongoDB + Express.js + React.js + Node.js) é uma web stack poderosa da linguagem JavaScript
 
 # 🔦 MENV Stack
 <p align="center">
