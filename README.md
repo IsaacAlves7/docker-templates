@@ -19,11 +19,14 @@ Para ver os repositórios da imagem desses contêineres, acesse: https://hub.doc
 # 🎼 Orchestration tools
 <img src="https://www.docker.com/wp-content/uploads/2015/08/docker-toolbox1.png" align="right" height="177">
 
+- Kubernetes (K8s)
 - Docker Engine
 - Docker Compose
 - Docker SWARM
 - Docker Machine
-- Linux OS (Ubuntu)
+- Linux OS (Ubuntu, Fedora, OpenSuse)
+- Podman
+- Helios
 
 # 🖧 DC - Distributed Computing resources
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/docker_macos_bigsur_icon_190231.png" align="right" height="177">
@@ -35,7 +38,7 @@ Para ver os repositórios da imagem desses contêineres, acesse: https://hub.doc
 - AWS ECS & ECR
 - GitHub Actions
 
-# 🧰 Environment development tools
+# 🧰 Docker environment development tools
 <img src="https://user-images.githubusercontent.com/61624336/179371191-910128c9-c19a-4c01-8e00-8222724632d6.svg" align="right" height="177">
 
 - Laradock
