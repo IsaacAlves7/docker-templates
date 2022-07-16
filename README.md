@@ -35,7 +35,7 @@ Para ver os repositórios da imagem desses contêineres, acesse: https://hub.doc
 - Clustering
 - Reverse proxy
 - Mesh services
-- AWS ECS & ECR
+- AWS ECS, ECR and EKS
 - GitHub Actions
 
 # 🧰 Docker environment development tools
