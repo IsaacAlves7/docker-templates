@@ -14,6 +14,7 @@ Para ver os repositórios da imagem desses contêineres, acesse: https://hub.doc
 - Test
 - Staging
 - Production
+- Deploy
 
 # 🎼 Orchestration tools
 <img src="https://www.docker.com/wp-content/uploads/2015/08/docker-toolbox1.png" align="right" height="177">
