@@ -34,6 +34,11 @@ Para ver os repositórios da imagem desses contêineres, acesse: https://hub.doc
 - AWS ECS & ECR
 - GitHub Actions
 
+# 🧰 Container tools
+<img src="https://user-images.githubusercontent.com/61624336/179371191-910128c9-c19a-4c01-8e00-8222724632d6.svg" align="right" height="177">
+
+- Laradock
+
 # 🔋 Web Stacks
 <p align="center">
     <a href="https://hub.docker.com/r/isaacalves7/node-file"><img src="https://user-images.githubusercontent.com/61624336/170062106-70768c8d-b49a-4a55-b686-d9b52856fb69.jpg" height="177"/></a>
@@ -148,17 +153,3 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/seedling_1f331.png" height="77" align="right">
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-<hr>
-
-# 🧰 Ambientes com ferramentas
-Existem muitos ambientes com ferramentas para melhor no desenvolvimento de aplicações dockerizadas, segue abaixo algumas delas:
-
-# 🟧 Laradock
-<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/laradock-1.svg"></div><br \>
-
-É um ambiente PHP cheio de ferramentas para facilitar na implementação com o docker-compose em Laravel, foi criado pelos mesmos desenvolvedores do Laravel.
-
-```
-git clone https://github.com/laradock/laradock.git
-```
