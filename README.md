@@ -46,7 +46,7 @@ Para ver os repositórios da imagem desses contêineres, acesse: https://hub.doc
 <img src="https://user-images.githubusercontent.com/61624336/179371191-910128c9-c19a-4c01-8e00-8222724632d6.svg" align="right" height="177">
 
 - Laradock
-- Linux OS (Ubuntu, Fedora, OpenSuse e CentOS)
+- Linux OS (Ubuntu, Fedora, OpenSuse, CentOS, Alpine e Busybox)
 - NGINX
 - Apache HTTP Server (httpd)
 - Apache Tomcat
