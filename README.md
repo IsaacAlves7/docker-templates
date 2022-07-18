@@ -19,6 +19,8 @@ Para ver os repositórios da imagem desses contêineres, acesse: https://hub.doc
 # 🎼 Orchestration tools
 <img src="https://www.docker.com/wp-content/uploads/2015/08/docker-toolbox1.png" align="right" height="177">
 
+For more contents, access the address: https://stackshare.io/container-tools
+
 - Kubernetes (K8s)
 - Docker Engine
 - Docker Compose
@@ -42,7 +44,7 @@ Para ver os repositórios da imagem desses contêineres, acesse: https://hub.doc
 - GitHub Actions
 - nextcloud
 
-# 🧰 Docker environment development tools
+# 🧰 Docker environment tools
 <img src="https://user-images.githubusercontent.com/61624336/179371191-910128c9-c19a-4c01-8e00-8222724632d6.svg" align="right" height="177">
 
 - Laradock
@@ -51,6 +53,7 @@ Para ver os repositórios da imagem desses contêineres, acesse: https://hub.doc
 - Apache HTTP Server (httpd)
 - Apache Tomcat
 - Apache Maven
+- Wordpress
 
 # 🔋 Web Stacks
 <p align="center">
@@ -127,7 +130,7 @@ A **MERN** stack (MongoDB + Express.js + React.js + Node.js) é uma web stack po
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flashlight_1f526.png" height="77" align="right">
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-# 💎 ROR Stack
+# 💎 RoR Stack
 <p align="center">
     <a href="https://hub.docker.com/r/isaacalves7/node-file"><img src="https://dockeri.co/image/isaacalves7/node-file"/></a>
 </p>
