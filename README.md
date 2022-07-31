@@ -10,11 +10,11 @@ Para ver os repositórios da imagem desses contêineres, acesse: https://hub.doc
 # 🏗️ Environments
 <img src="https://user-images.githubusercontent.com/61624336/170058420-5027e551-de2d-438b-ae88-842d75e8a78b.svg" align="right" height="177">
 
-- Development
-- Test
-- Staging
-- Production
-- Deploy
+- Development (Desenvolvimento)
+- Test (Teste)
+- Staging (Homologação)
+- Production (Produção)
+- Deploy (Implantação)
 
 # 🎼 Orchestration tools
 <img src="https://www.docker.com/wp-content/uploads/2015/08/docker-toolbox1.png" align="right" height="177">
